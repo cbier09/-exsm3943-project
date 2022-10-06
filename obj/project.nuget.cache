@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8vDrrwoFbFlPMVCIvgsF8TNfMoxS0FiTkX8np0kaWij+yXrRGK6NQJRfJRfAN6G4BtOxpAGJaDByiCHT3mbKA==",
+  "dgSpecHash": "gPORI1sKhZHLWMvard0abaUNMXE1YxekMY6XS4StpWztzLXa1YXV942QI1E5Jvmrz+ZEWNet2v0BhTN+YUUxIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\source\\repos\\exsm3943-project\\ClassroomStart.csproj",
+  "projectFilePath": "C:\\Users\\chris\\source\\repos\\-exsm3943-project\\ClassroomStart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

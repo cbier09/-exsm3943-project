@@ -2056,11 +2056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\exsm3943-project\\ClassroomStart.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\-exsm3943-project\\ClassroomStart.csproj",
       "projectName": "ClassroomStart",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\exsm3943-project\\ClassroomStart.csproj",
+      "projectPath": "C:\\Users\\chris\\source\\repos\\-exsm3943-project\\ClassroomStart.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\exsm3943-project\\obj\\",
+      "outputPath": "C:\\Users\\chris\\source\\repos\\-exsm3943-project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
