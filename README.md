@@ -4,3 +4,4 @@ uploaded to new repository
 fixed errors in code
 corrected errors in databasecontext file
 dropped and reloaded database to phpmyadmin
+should be good to go
