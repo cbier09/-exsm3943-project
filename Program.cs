@@ -60,6 +60,16 @@ static void ProductMenu(int customerNumber)
     var customer = context.Customers.Find(customerNumber);
     var products = context.Inventories.ToList();
 
+    if (customer == null)
+
+    {
+
+        Console.WriteLine("Something went wrong with your customer number");
+
+        return;
+
+    }
+
     var productList = "Choose a Product\n...................";
 
     var productDict = new Dictionary<int, Inventory>();
